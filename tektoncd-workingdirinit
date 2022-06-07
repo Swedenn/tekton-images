@@ -1,0 +1,1 @@
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/workingdirinit:v0.36.0@sha256:1f028b78a04e08a23bf8dd9d1f625b997e59a9b4a8f921c8bcadf781abb9049e
