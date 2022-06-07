@@ -1,1 +1,1 @@
-FROM cr.io/tekton-releases/github.com/tektoncd/triggers/cmd/eventlistenersink:v0.16.0@sha256:97bcbbce4f592c6bf15c8811adf445d028f58ff5b38e24467d30d727dd919638
+FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/eventlistenersink:v0.16.0@sha256:97bcbbce4f592c6bf15c8811adf445d028f58ff5b38e24467d30d727dd919638
