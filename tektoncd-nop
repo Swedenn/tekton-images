@@ -1,1 +1,1 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.36.0@sha256:44b51ab8b360af58716ebfa34adbd8916050e0fc49ff6a1ddf44c07a6e9b63e9
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.29.1@sha256:2cba9a3eaa06258c648af8f4f62b14b3ca1f6ffcbb3afb964578971da860776b
